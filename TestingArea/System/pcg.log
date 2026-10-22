@@ -1,0 +1,1 @@
+/lustre/astro/rnl434/TS2CG-v2.0/TS2CG/PCG  -WPointDir  -str  input.str  -defout  system  -function  analytical_shape  

@@ -1,0 +1,17 @@
+[[Lipids List]
+Domain  0  
+;lipidnname ratio_up ratio_down  APL
+POPC	0.8  0.8  0.64
+CDL0	0.2  0.2  1.2
+End
+
+[Shape Data]
+; Information regarding the dimensions of the shape we want to simulate. This is the same information as is normally generated during the Pointillism PLM step.
+ShapeType 1D_PBC_Fourier
+Box        30   15   20
+WallRange  0    1    0    1
+Density    3    1
+Thickness  4
+Mode 0.5    1    0
+Mode 2    2    0
+End
