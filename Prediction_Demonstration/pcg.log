@@ -1,0 +1,1 @@
+/groups/astro/rnl434/miniconda/envs/Thesis/lib/python3.11/site-packages/TS2CG/PCG  -WPointDir  -str  /lustre/astro/rnl434/Lateral-Organization-Predicter-Trial-/TestingArea/Prediction_Demonstration/input.str  -defout  system  -function  analytical_shape  

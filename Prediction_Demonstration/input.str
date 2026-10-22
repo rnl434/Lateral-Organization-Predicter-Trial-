@@ -1,0 +1,19 @@
+[Lipids List]
+Domain 0
+; lipidname ratio_up ratio_down APL
+POPC	0.8  0.8  0.64
+CDL	0.2  0.2  1.2
+End
+
+[Shape Data]
+; Shape dimensions: x y z
+ShapeType 1D_PBC_Fourier
+Box        60   15   20
+WallRange  0    1    0    1
+Density    3    1
+Thickness  4
+Mode 2    1    0
+Mode 4    2    0
+Mode 2    3    90
+Mode 1    5    0
+End
